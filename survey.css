@@ -1,0 +1,13 @@
+body {
+    background-image: url("pic.jpg");
+    background-color: #cccccc;
+   }
+   
+header{
+    background-color: black;
+    padding: 20px;
+    margin: -20px;
+}
+.title{
+    color: whitesmoke;
+}
